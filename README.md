@@ -7,3 +7,7 @@ További segítséget kaphatsz a hazai közösségben:
 
 [TELEGRAM csatorna](https://web.telegram.org/k/#@meshtastic1)  - forgalmasabb, általában gyorsan kaphatsz segítséget
 
+## Eszköz beállítások
+
+<img src="./screenshots/userconf.png">
+- User:

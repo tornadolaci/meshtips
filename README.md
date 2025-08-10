@@ -11,4 +11,6 @@ További segítséget kaphatsz a hazai közösségben:
 
 <img src="./screenshots/userconf.png">
 <strong> User Config: </strong> A "Long name" és a "Short name" mezők fognak elküldésre kerülni a nodeinfo adásakor, ellenállomásaid ezeket a neveket fogják látni, amiket itt megadtál. <br>
-<strong> 1: </strong> Unmessageable: Ha ezt bekapcsolod, azzal jelezheted, hogy az eszközödhöz nem kapcsolódsz applikációval, állomásod nem fogad üzeneteket. Például, ha csak "átjátszóként" használod az eszközt, de közvetlenül nem szoktál hozzá kapcsolódni és nem látnád az ide küldött privát üzeneteket. 
+<strong> - 1: </strong> Unmessageable: Ha ezt bekapcsolod, azzal jelezheted, hogy az eszközödhöz nem kapcsolódsz applikációval, állomásod nem fogad üzeneteket. Például, ha csak "átjátszóként" használod az eszközt, de közvetlenül nem szoktál hozzá kapcsolódni és nem látnád az ide küldött privát üzeneteket. <br>
+<strong> - 2: </strong> Licensed Amateur Radio: Ezt a kapcsolót csak akkor használd, ha rádióamatőrként az eszközöd akár teljes teljesítményévével kívánsz sugározni, valamint nem kívánsz titkosítási kulcsokat használni. Ezt hagyd alapértelmezetten kikapcsolva.
+

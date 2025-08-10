@@ -13,5 +13,5 @@ További segítséget kaphatsz a hazai közösségben:
 <strong> User Config: </strong> <br>
 A "Long name" és a "Short name" mezők fognak elküldésre kerülni a nodeinfo adásakor, ellenállomásaid ezeket a neveket fogják látni, amiket itt megadtál. <br>
 <strong> Unmessageable: </strong> Ha ezt bekapcsolod, azzal jelezheted, hogy az eszközödhöz nem kapcsolódsz applikációval, állomásod nem fogad üzeneteket. Például, ha csak "átjátszóként" használod az eszközt, de közvetlenül nem szoktál hozzá kapcsolódni és nem látnád az ide küldött privát üzeneteket. <br>
-<strong> Licensed Amateur Radio: </strong> Ezt a kapcsolót csak akkor használd, ha rádióamatőrként az eszközöd akár teljes teljesítményévével kívánsz sugározni, valamint nem kívánsz titkosítási kulcsokat használni. Ezt hagyd alapértelmezetten kikapcsolva.
+<strong> Licensed Amateur Radio: </strong> Ezt a kapcsolót csak akkor használd, ha rádióamatőrként az eszközöd akár teljes teljesítményévével kívánsz sugározni, valamint ez esetben nem tudsz titkosítási kulcsokat használni. Ezt hagyd az alapértelmezett állapoton, kikapcsolva.
 

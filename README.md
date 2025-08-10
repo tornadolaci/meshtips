@@ -1,2 +1,2 @@
-# meshtips
+# MeshTips
 Meshtastic beállítási segédlet

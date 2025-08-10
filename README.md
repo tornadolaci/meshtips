@@ -5,5 +5,5 @@ További segítséget kaphatsz a hazai közösségben:
 
 [FB csoport](https://www.facebook.com/groups/1756983494805627/)
 
-[TELEGRAM csatorna](https://web.telegram.org/k/#@meshtastic1)
+[TELEGRAM csatorna](https://web.telegram.org/k/#@meshtastic1)  (forgalmasabb)
 

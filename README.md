@@ -10,4 +10,4 @@ További segítséget kaphatsz a hazai közösségben:
 ## Eszköz beállítások
 
 <img src="./screenshots/userconf.png">
- User Config: A "Long name" és a "Short name" mezők fognak elküldésre kerülni a nodeinfo adásakor, ellenállomásaid ezeket a neveket fogják látni, amiket itt megadtál.
+<strong>User Config: </strong>strong>A "Long name" és a "Short name" mezők fognak elküldésre kerülni a nodeinfo adásakor, ellenállomásaid ezeket a neveket fogják látni, amiket itt megadtál.
